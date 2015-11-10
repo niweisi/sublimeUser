@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"CSScomb",
+		"DocBlockr",
 		"Emmet",
 		"HTML5",
 		"MarkdownEditing",
