@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"CSScomb",
 		"Emmet",
 		"HTML5",
 		"Package Control",
