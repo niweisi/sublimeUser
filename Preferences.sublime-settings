@@ -5,7 +5,8 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
