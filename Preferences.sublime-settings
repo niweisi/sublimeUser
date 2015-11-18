@@ -27,6 +27,9 @@
 	//一个tab的宽度
 	"tab_size": 4,
 
+	//tab-4个空格
+	"translate_tabs_to_spaces": true,
+
 	//自动更新
 	"update_check": false,
 
