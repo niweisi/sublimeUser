@@ -12,5 +12,6 @@
 	"show_line_endings": true,
 	"tab_size": 4,
 	"update_check": false,
-	"word_wrap": true
+	"word_wrap": true,
+	"trim_trailing_white_space_on_save": true
 }
