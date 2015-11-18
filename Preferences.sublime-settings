@@ -1,17 +1,38 @@
 {
+	//tab代替回车代码补全
 	"auto_complete_commit_on_tab": true,
+
+	//默认编码
 	"default_encoding": "UTF-8",
+
+	// 设置为none时，什么情况下都不显示这些点和线
+	// 设置为selection时，只显示选中状态下的点和线
+	// 设置为all时，则一直显示
 	"draw_white_space": "all",
+
+	//字体大小
 	"font_size": 16,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
+
+	//文件编码右下角提示
 	"show_encoding": true,
+
+	//文件属于那种操作系统右下角提示
 	"show_line_endings": true,
+
+	//一个tab的宽度
 	"tab_size": 4,
+
+	//自动更新
 	"update_check": false,
+
+	//自动换行
 	"word_wrap": true,
+
+	//保存时删除行尾空格
 	"trim_trailing_white_space_on_save": true
 }
