@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Tag"
 	],
 	"installed_packages":
 	[
@@ -11,6 +12,9 @@
 		"HTML5",
 		"MarkdownEditing",
 		"Package Control",
-		"Tag"
+		"Sass",
+		"Tag",
+		"TypeScript",
+		"TypescriptCompletion"
 	]
 }

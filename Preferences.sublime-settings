@@ -6,6 +6,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"Tag",
 		"Vintage"
 	],
 	"show_encoding": true,
